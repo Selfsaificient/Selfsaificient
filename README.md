@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **Data Analyst Internship**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Selfsaificient](https://github.com/Selfsaificient)
+- 👨‍💻 All of my projects are available at [https://github.com/Selfsaificient](https://github.com/Selfsaificient?tab=repositories)
 
 - 📫 How to reach me **selfsaificient123@gmail.com**
 
