@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python ,SQL AND Power BI**
 
-- 🤝 I’m looking for **Data Analyst Internship**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/Selfsaificient?tab=repositories)
 
 - 📫 How to reach me **selfsaificient123@gmail.com**
